@@ -1,0 +1,31 @@
+{
+    "name": "bootstrap-less-v3",
+    "version": "3.3.4",
+    "main": "less/bootstrap.less",
+    "homepage": "https://github.com/zowie93/bootstrap-less-v3.3.4",
+    "bugs": "https://github.com/zowie93/bootstrap-less-v3.3.4/issues",
+    "author": {
+      "name" : "Zowie van Geest",
+      "email": "zowie@zowievangeest.nl",
+      "url"  : "http://zowievangeest.nl"
+    },
+    "description": "Bower bootstrap less package",
+    "keywords": [
+      "bootstrap-less",
+      "bootstrap",
+      "bootstrapv3",
+      "new-bootstrap",
+      "bootstrap-new"
+    ],
+    "ignore": [
+      "**/.*",
+      "node_modules",
+      "components"
+    ],
+    "licenses": [
+      {
+        "type": "MIT"
+      }
+    ]
+
+}
